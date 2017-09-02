@@ -1,0 +1,14 @@
+11010 PP - SQS 312 Bloco A - Apto 101
+11020 PP - SQS 312 Bloco E - Apto 501
+
+11030 PP - SQS 312 Bloco E - Apto 601
+
+11040 PP - SQS 313 Bloco A - Apto 101
+
+11060 TAG - AV das Acacias Q- 107 - Casa 1
+
+21020 TAG - Av das Acacias Lote 1 - Ap 401
+
+41040 LU - Av das acaciasom nro 403 casa 45
+
+31010 PP - SQS 415 Bloco A - Apto 405   
